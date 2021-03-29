@@ -1,6 +1,6 @@
 # Carenow-CNVitals SDK
 
-Although this Cordova plugin is publicc, you'll need a license for the [CNVitals SDK](http://www.cnvitals.com/) in order to use it.
+Although this Cordova plugin is publicc, you'll need a license for the [CNVitals SDK](http://www.carenowvitals.com/) in order to use it.
 If you have a license you'll need to clone this repository and replace the library/framework files with the ones you received from CNVitals Team.
 
 ## Installation

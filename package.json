@@ -1,13 +1,35 @@
 {
   "name": "cordova-plugin-cnvitals",
   "author": "Swaroop A.S",
-  "version": "1.0.0",
+  "cordova_name": "CNVITALS-SDK",
+  "license": "MIT",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CareNow-HealthCare/cordova.carenow.healthcare"
+  },
+  "issue": "https://github.com/CareNow-HealthCare/cordova.carenow.healthcare/issues",
   "cordova": {
     "id": "cordova-plugin-cnvitals",
     "platforms": [
-      "android"
+      "android",
+      "ios",
+      "windows"
     ]
   },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "android",
+    "ios",
+    "windows",
+    "ionic",
+    "camera",
+    "vitals",
+    "body-vitals",
+    "carenow",
+    "sdk"
+  ],
   "scripts": {
     "version": "sync-cordova-xml package.json plugin.xml --output plugin.xml && git add plugin.xml"
   },
