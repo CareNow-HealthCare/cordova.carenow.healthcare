@@ -1,0 +1,15 @@
+{
+  "name": "cordova-plugin-cnvitals",
+  "author": "Swaroop A.S",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-cnvitals",
+    "platforms": [
+      "android"
+    ]
+  },
+  "scripts": {
+    "version": "sync-cordova-xml package.json plugin.xml --output plugin.xml && git add plugin.xml"
+  },
+  "description": "carenowvitals sdk for detecting vitals from phone camera"
+}
