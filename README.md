@@ -1,4 +1,4 @@
-# Cordova.Carenow.CNVitals SDK
+# Carenow-CNVitals SDK
 
 Although this Cordova plugin is publicc, you'll need a license for the [CNVitals SDK](http://www.cnvitals.com/) in order to use it.
 If you have a license you'll need to clone this repository and replace the library/framework files with the ones you received from CNVitals Team.
@@ -9,13 +9,13 @@ To install the plugin to your Cordova project use the Cordova CLI Tool:
 
 ```
 #!bash
-$ cordova plugin add cordova.carenow.cnvitals
+$ cordova plugin add cordova-plugin-cnvitals  
 ```
 
 To install the plugin to your ionic application use this command:
 
 #!bash
-$ ionic cordova plugin add cordova.carenow.cnvitals
+$ ionic cordova plugin add cordova-plugin-cnvitals  
 
 ````
 
