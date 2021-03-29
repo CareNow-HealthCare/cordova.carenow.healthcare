@@ -59,4 +59,4 @@ onDeviceReady: function() {
 
 Please visit the [Carenow](https://www.carenow.healthcare).
 Contact customer support for obtaining the sdk
-[mailto](mailto:help@carenow.healhcare)
+(mailto:help@carenow.healhcare)
